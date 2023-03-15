@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 이호승
-title: 대나
+name: 강린
+title: 가수
 email: hmy7924@naver.com
 # email_title: Email (Email title override)
 phone: 010-5593-9010
